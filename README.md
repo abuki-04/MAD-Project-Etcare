@@ -1,4 +1,4 @@
-# MAD-Project-AdeyCare
+# AdeyCare
 
 *Be healthy, bloom daily.*
 
