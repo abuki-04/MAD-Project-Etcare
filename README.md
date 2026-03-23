@@ -2,17 +2,16 @@
 
 *Be healthy, bloom daily !*
 
-## Project Description
-[Write 1–2 paragraphs summarizing your proposal]
 
 ## Team Members & Roles
 | Role | Name |
 |------|------|
-| UI/UX Implementation Lead | [Name] |
-| Database & State Lead | [Name] |
-| Core Logic & Services Lead | [Name] |
-| Network & API Lead | [Name] |
-| DevOps & Testing Lead | [Name] |
+| UI/UX Implementation Lead | Biftu Bojor |
+| Database & State Lead | Abel Yonas |
+| Core Logic & Services Lead | Fuad Abdulkerim |
+| UI/UX Implementation Lead | Hiba Kassa |
+| Network & API Lead | Yeabtsega Abera |
+| DevOps & Testing Lead | Yeabtsega Girum |
 
 ## Links
 - [Figma Wireframes](https://www.figma.com/...)
