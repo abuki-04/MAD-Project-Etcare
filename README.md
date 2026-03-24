@@ -6,8 +6,8 @@
 ## Team Members & Roles
 | Role | Name |
 |------|------|
-| UI/UX Implementation Lead | Biftu Bojor |
 | Database & State Lead | Abel Yonas |
+| UI/UX Implementation Lead | Biftu Bojor |
 | Core Logic & Services Lead | Fuad Abdulkerim |
 | UI/UX Implementation Lead | Hiba Kassa |
 | Network & API Lead | Yeabtsega Abera |
