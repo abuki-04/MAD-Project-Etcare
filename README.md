@@ -18,5 +18,5 @@
 | DevOps & Testing Lead | Yeabtsega Girum |
 
 ## Links
-- [Figma Wireframes](https://www.figma.com/design/hWV3URNPb3AqYw6RYLQAJF/Untitled?node-id=0-1&t=wlVSPxKptjNDTYFS-1)
+- [Figma Wireframes](https://www.figma.com/design/SBudrX42ReTReL6rqSNByU/Untitled?node-id=0-1&t=qJc6m700ar1SpFAP-1)
 - [Jira Board](https://abukiabubekr04.atlassian.net/jira/software/projects/SCRUM/boards/2?atlOrigin=eyJpIjoiMmM2MGE3MzJmNjllNGFiMzliOTMzN2QyZjUwNzdmYjYiLCJwIjoiaiJ9)
